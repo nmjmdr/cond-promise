@@ -1,6 +1,7 @@
 # To execute conditional logic that uses promises
 
 ## example
+```
 function someCheck() {
   return Promise.resolve(true)
 }
@@ -29,3 +30,4 @@ function handler() {
 }
 
 handler()
+```
